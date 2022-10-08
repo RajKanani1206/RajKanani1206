@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I am Raj Kanani, Software Developer at TechStaunch.
+I am Raj Kanani.
 
 > 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/rajkanani)
